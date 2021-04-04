@@ -4,8 +4,7 @@
   "main": "index.js",
   "scripts": {
     "pdf": "node ./scripts/generatePDF.js",
-    "start": "serve",
-    "test": "node ./scripts/compare.js"
+    "start": "serve"
   },
   "devDependencies": {
     "imagemagick": "^0.1.3",
